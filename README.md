@@ -303,3 +303,7 @@
 - 附录 A. [致谢](https://vitsumoc.github.io/mqtt-v5-0-chinese.html#附录-A-致谢)
 - 附录 B. [强制性规范性声明（非规范性）](https://vitsumoc.github.io/mqtt-v5-0-chinese.html#附录-B-强制性规范性声明（非规范性）)
 - 附录 C. [MQTT v5.0 新特性汇总（非规范性）](https://vitsumoc.github.io/mqtt-v5-0-chinese.html#附录-C-MQTT-v5-0-新特性汇总（非规范性）)
+
+# 许可协议
+
+[署名 4.0](https://creativecommons.org/licenses/by/4.0/)
